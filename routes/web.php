@@ -21,3 +21,7 @@ Route::get('/', function () {
 Route::get('/resume', function () {
     return view('pages.resume');
 });
+
+Route::get('/projects', function () {
+    return view('pages.projects');
+});

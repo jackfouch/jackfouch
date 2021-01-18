@@ -1,5 +1,30 @@
  @extends('layouts.default')
 
  @section('content')
- <p>Hey this is index</p>
+ <div class="container d-flex flex-column align-items-center justify-content-center mt-5">
+     <h1 class="section-header text-dark mb-3">Personal Overview</h1>
+     <div class="container">
+         <p class="section-body text-dark">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quidem ipsa exercitationem omnis dignissimos autem corporis aperiam quasi delectus praesentium non labore dolore ratione mollitia odit vitae voluptatibus tempore nulla!</p>
+         <p class="section-body text-dark">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quidem ipsa exercitationem omnis dignissimos autem corporis aperiam quasi delectus praesentium non labore dolore ratione mollitia odit vitae voluptatibus tempore nulla!</p>
+         <p class="section-body text-dark">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quidem ipsa exercitationem omnis dignissimos autem corporis aperiam quasi delectus praesentium non labore dolore ratione mollitia odit vitae voluptatibus tempore nulla!</p>
+         <p class="section-body text-dark">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quidem ipsa exercitationem omnis dignissimos autem corporis aperiam quasi delectus praesentium non labore dolore ratione mollitia odit vitae voluptatibus tempore nulla!</p>
+         <p class="section-body text-dark">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quidem ipsa exercitationem omnis dignissimos autem corporis aperiam quasi delectus praesentium non labore dolore ratione mollitia odit vitae voluptatibus tempore nulla!</p>
+         <p class="section-body text-dark">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quidem ipsa exercitationem omnis dignissimos autem corporis aperiam quasi delectus praesentium non labore dolore ratione mollitia odit vitae voluptatibus tempore nulla!</p>
+         <p class="section-body text-dark">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quidem ipsa exercitationem omnis dignissimos autem corporis aperiam quasi delectus praesentium non labore dolore ratione mollitia odit vitae voluptatibus tempore nulla!</p>
+         <p class="section-body text-dark">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quidem ipsa exercitationem omnis dignissimos autem corporis aperiam quasi delectus praesentium non labore dolore ratione mollitia odit vitae voluptatibus tempore nulla!</p>
+         <p class="section-body text-dark">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quidem ipsa exercitationem omnis dignissimos autem corporis aperiam quasi delectus praesentium non labore dolore ratione mollitia odit vitae voluptatibus tempore nulla!</p>
+         <p class="section-body text-dark">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quidem ipsa exercitationem omnis dignissimos autem corporis aperiam quasi delectus praesentium non labore dolore ratione mollitia odit vitae voluptatibus tempore nulla!</p>
+         <p class="section-body text-dark">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quidem ipsa exercitationem omnis dignissimos autem corporis aperiam quasi delectus praesentium non labore dolore ratione mollitia odit vitae voluptatibus tempore nulla!</p>
+         <p class="section-body text-dark">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quidem ipsa exercitationem omnis dignissimos autem corporis aperiam quasi delectus praesentium non labore dolore ratione mollitia odit vitae voluptatibus tempore nulla!</p>
+         <p class="section-body text-dark">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quidem ipsa exercitationem omnis dignissimos autem corporis aperiam quasi delectus praesentium non labore dolore ratione mollitia odit vitae voluptatibus tempore nulla!</p>
+         <p class="section-body text-dark">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quidem ipsa exercitationem omnis dignissimos autem corporis aperiam quasi delectus praesentium non labore dolore ratione mollitia odit vitae voluptatibus tempore nulla!</p>
+         <p class="section-body text-dark">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quidem ipsa exercitationem omnis dignissimos autem corporis aperiam quasi delectus praesentium non labore dolore ratione mollitia odit vitae voluptatibus tempore nulla!</p>
+         <p class="section-body text-dark">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quidem ipsa exercitationem omnis dignissimos autem corporis aperiam quasi delectus praesentium non labore dolore ratione mollitia odit vitae voluptatibus tempore nulla!</p>
+         <p class="section-body text-dark">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quidem ipsa exercitationem omnis dignissimos autem corporis aperiam quasi delectus praesentium non labore dolore ratione mollitia odit vitae voluptatibus tempore nulla!</p>
+         <p class="section-body text-dark">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quidem ipsa exercitationem omnis dignissimos autem corporis aperiam quasi delectus praesentium non labore dolore ratione mollitia odit vitae voluptatibus tempore nulla!</p>
+         <p class="section-body text-dark">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quidem ipsa exercitationem omnis dignissimos autem corporis aperiam quasi delectus praesentium non labore dolore ratione mollitia odit vitae voluptatibus tempore nulla!</p>
+         <p class="section-body text-dark">Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, quidem ipsa exercitationem omnis dignissimos autem corporis aperiam quasi delectus praesentium non labore dolore ratione mollitia odit vitae voluptatibus tempore nulla!</p>
+     </div>
+
+ </div>
  @endsection
