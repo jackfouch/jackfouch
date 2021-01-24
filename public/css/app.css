@@ -1,21 +1,49 @@
 body{
-    background-color:#F8F8F8;
+    background-color:#F5F5F5;
 }
 
-nav ul{
-    width:100%;
+nav a{
+    color:#640C95;
 }
 
-nav li {
-    width:33%;
-    text-align:center;
+nav a:hover{
+    color:#AD6DD0;
+}
+
+nav{
+    background-color:#EEEEEE;
+}
+
+.dropdown-container{
+    margin-right:15%;
+}
+
+.container{
+    flex-basis:90%;
+}
+
+.section-1{
+    background-color:#F5F5F5;
+}
+
+.section-2{
+    background-color:#EEEEEE;
+}
+
+.section-3{
+    background-color:#CCCCCC;
+}
+
+.section-title{
+    color:#640C95;
 }
 
 .footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #343a40;
-    color: #f8f9fa;
+    background-color: #EEEEEE;
+    color:#640C95;
+    position:fixed;
     text-align:center;
 }

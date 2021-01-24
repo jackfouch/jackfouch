@@ -1,4 +1,3 @@
 <div class="footer mt-5">
-    <p class="text-light m-0">Jack Fouch</p>
-    <p class="text-light m-0">2021</p>
+    <p class="m-0">Created by Jack Fouch</p>
 </div>
