@@ -1,27 +1,37 @@
-<div class="container-fluid">
-    <nav class="navbar navbar-expand-lg navbar-light bg-dark">
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+<nav class="navbar sticky-top navbar-expand-lg mb-5">
 
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
-                <li class="nav-item active">
-                    <a class="nav-link text-light" href="/">Overview</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-light" href="/projects">Projects</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-light" href="/resume">Resume</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-light" href="https://www.linkedin.com/in/jack-fouch/" target="_blank" onClick="return confirm('Clicking this will open a new tab, continue?')">LinkedIn</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-light" href="https://github.com/jackfouch" target="_blank" onClick="return confirm('Clicking this will open a new tab, continue?')">GitHub</a>
-                </li>
-            </ul>
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">Jack Fouch (website still being developed)</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+        <div class="dropdown-container d-flex align-items-end">
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav">
+                    <li class="nav-item dropdown mr-5 pr-5">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Jump To
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="#">Overview</a></li>
+                            <li><a class="dropdown-item" href="#">Education</a></li>
+                            <li><a class="dropdown-item" href="#">Projects</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            External Links
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="#">LinkedIn</a></li>
+                            <li><a class="dropdown-item" href="#">GitHub</a></li>
+                        </ul>
+                    </li>
+
+                </ul>
+            </div>
         </div>
-    </nav>
-</div>
+    </div>
+</nav>
